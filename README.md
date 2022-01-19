@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonyLMayo
+- 👋 Hi, I’m @Tony Mayo
 - 👀 I’m interested in SAS and Azure and DevOps
 - 🌱 I’m currently learning ... Viya and DevOps best practices
 - 💞️ I’m looking to collaborate on ...anything  SAS $& Azure
